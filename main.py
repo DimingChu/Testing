@@ -3,7 +3,7 @@ def Add(a, b):
         
 def SayHello():
         print("sup world from srcmake")
-        print(new stuff")
+        print("new stuff")
 
 if __name__ == '__main__':
         SayHello()
